@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="MEDIA IPAS" />
+              <option name="title_text" value="MEDIA IPAS FINISH" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -33,9 +33,9 @@
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="false">
+          <option name="time_enabled" value="true">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1286,25 +1286,41 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.623tzGCcooI" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.623SaEcvedz" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.623tzGCcooI.6FOAy3UGk9U" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6oW054tNN9C" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.5YQiLeknA8I" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6dnazGVyp0w" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6AsGWn5qYTh" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6LkElBIczwt" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6LT8H64b7hD" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6lsuiDyGzV8" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6FCkU47po74" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6exXoNTi45d" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.60toBhy0CBP" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.66LrlTa9S4F" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.5c2qx11Sdp9" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6qQnOAmNDHx" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.68hb37rzdWm" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.65aDZS7iTY7" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.623tzGCcooI.6O0QW1yqzyb" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6TshLtALo08" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6p055tFQyDl" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6MSz94zlwUW" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6cIO6dl7nQ2" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6Bll1e58sLH" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6CWa93d5tLn" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6lYSbC0KISg" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6nVQxxlPXG6" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6GOzEdtD4Wo" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.65Co9th1DMo" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5gpzJEKrS32" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6gvwk5UeqkJ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6IN9NohcejU" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6lodULXzhlb" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6f5lFJXImk2" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5iUPZ4IONow" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6nIuFD1ADfE" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5wOLPj4cFfJ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6qr42bwHioP" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6jeE2LKrrCe" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5lnS5sP0PZC" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6auudWH8LIY" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.60MQD4m4HZF" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5tWJbQeGVqI" displaytext="Mengapa warisan budaya tak benda perlu dilestarikan?" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6LCnllR3Jm4" displaytext="Berikut ini ada beberapa elemen budaya. Kelompokkan elemen budaya tersebut ke dalam kategori warisan benda atau warisan tak benda!&#xA;&#xA;Tradisi Sekaten&#xA;Makanan Gudeg&#xA;Tari Jaipong&#xA;Rumah Bolon&#xA;Alat Musik Angklung" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5ZyE9bhEreZ" displaytext="Apa perbedaan utama antara warisan budaya benda dan warisan tak benda?" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6JrIwQoWqxi" displaytext="Apa yang dimaksud dengan warisan budaya tak benda?" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6MBzyQXzENy" displaytext="Di bawah ini, mana yang termasuk dalam warisan tak benda?" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6fe9DsjZt6s" displaytext="True/False" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.69a4tvpjOem" displaytext="Dari manakah cerita rakyat malin kundang?" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.61nX6vIFGDT" displaytext="True/False" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6ODrgR5FEeK" displaytext="Apa nama rumah yang ada pada gambar?" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5jCLGTNoNoR" displaytext="True/False" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000101" font="Open Sans" controllayout="npnxnanbsnfns00000000101" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
-    <layout name="pxabnsnfns00000000101" font="Open Sans" controllayout="pxabnsnfns00000000101" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
-    <layout name="npxnabnsnfns00000000101" font="Open Sans" controllayout="npxnabnsnfns00000000101" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
-    <layout name="npnxnanbnsnfns00000000101" font="Open Sans" controllayout="npnxnanbnsnfns00000000101" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
-    <layout name="pxabnsnfns00000000100" font="Open Sans" controllayout="pxabnsnfns00000000100" colorscheme="pxabnsnfns00000000101" string_table="pxabnsnfns00000000101" />
+    <layout name="npnxnanbsnfns00000100101" font="Open Sans" controllayout="npnxnanbsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
+    <layout name="pxabnsnfns00000100101" font="Open Sans" controllayout="pxabnsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
+    <layout name="npxnabnsnfns00000100101" font="Open Sans" controllayout="npxnabnsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
+    <layout name="npnxnanbnsnfns00000100101" font="Open Sans" controllayout="npnxnanbnsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
+    <layout name="pxabnsnfns00000100100" font="Open Sans" controllayout="pxabnsnfns00000100100" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="MEDIA PEMBELAJARAN " />
+              <option name="title_text" value="MEDIA IPAS FINISHH " />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -27,13 +27,13 @@
           </option>
           <optionlist name="tabs">
             <listitems>
-              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="resources" value="true" group="linkright" />
               <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="true">
+          <option name="time_enabled" value="false">
             <options>
               <option name="time_format" value="elapsed" />
             </options>
@@ -86,7 +86,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00000000101">
+    <control_layout name="npnxnanbsnfns00000100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -99,7 +99,7 @@
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -109,7 +109,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000000101">
+    <control_layout name="pxabnsnfns00000100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -122,7 +122,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -132,7 +132,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00000000101">
+    <control_layout name="npxnabnsnfns00000100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -145,7 +145,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -155,7 +155,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns00000000101">
+    <control_layout name="npnxnanbnsnfns00000100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -168,7 +168,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -178,7 +178,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000000100">
+    <control_layout name="pxabnsnfns00000100100">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -191,7 +191,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -203,7 +203,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns00000000101">
+    <colorscheme name="pxabnsnfns00000100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1120,7 +1120,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns00000000101">
+    <string_table name="pxabnsnfns00000100101">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1343,7 +1343,12 @@
             <slidelink slideid="_player.623SaEcvedz.6NTUdT3dgsB" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.623SaEcvedz.5qECPk0dOZB" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.623SaEcvedz.5tWJbQeGVqI" displaytext="Mengapa warisan budaya tak benda perlu dilestarikan?" expand="false" type="slide" />
-            <slidelink slideid="_player.623SaEcvedz.6LCnllR3Jm4" displaytext="Berikut ini ada beberapa elemen budaya. Kelompokkan elemen budaya tersebut ke dalam kategori warisan benda atau warisan tak benda!  Tradisi Sekaten Makanan Gudeg Tari Jaipong Rumah Bolon Alat Musik Angklung" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5gMYM1KvJU5" displaytext="Candi Borobudur dan Rumah Gadang memiliki persamaan dan perbedaan. Perbedaan utama keduanya adalah…" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5uUFP7oN2NO" displaytext="Angklung dan Tari Saman keduanya merupakan warisan budaya tak benda. Persamaan keduanya adalah…" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.675MhCNmBrs" displaytext="Keris, batik, dan perahu tradisional termasuk warisan budaya benda. Peran utama benda-benda tersebut dalam budaya Indonesia adalah…" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5kcedU6JWwO" displaytext="Upacara Ngaben di Bali dapat dikategorikan sebagai warisan budaya tak benda karena…" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.5mfFRHwtskD" displaytext="Jika sebuah sekolah ingin mengajarkan siswa membedakan warisan budaya benda dan tak benda, metode yang paling tepat adalah…" expand="false" type="slide" />
+            <slidelink slideid="_player.623SaEcvedz.6LMUk8TqgeW" displaytext="Upacara Ngaben di Bali termasuk warisan budaya…" expand="false" type="slide" />
             <slidelink slideid="_player.623SaEcvedz.5ZyE9bhEreZ" displaytext="Apa perbedaan utama antara warisan budaya benda dan warisan tak benda?" expand="false" type="slide" />
             <slidelink slideid="_player.623SaEcvedz.6JrIwQoWqxi" displaytext="Apa yang dimaksud dengan warisan budaya tak benda?" expand="false" type="slide" />
             <slidelink slideid="_player.623SaEcvedz.6MBzyQXzENy" displaytext="Di bawah ini, mana yang termasuk dalam warisan tak benda?" expand="false" type="slide" />
@@ -1357,7 +1362,7 @@
       </links>
     </outline>
   </nav_data>
-  <resource_data description="" />
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
   <transcript_data />
   <glossary_data />
 </bwFrame>
